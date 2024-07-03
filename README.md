@@ -1,6 +1,6 @@
 # To-Do List App Using HTML CSS And JavaScript
 
-## <a href="https://bhashibandara95.github.io/BhashiBandara95_task-app_in_javascript/" target="_blank">Click To Live App</a>
+## <a href="https://bhashibandara95.github.io/BhashiBandara95_task-app_in_javascript/" target="\_blank" rel="noopener noreferrer"> Click To Live App</a>
 
 ## Features of the App
 
